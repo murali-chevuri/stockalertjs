@@ -1,0 +1,9 @@
+{
+  "name": "stockalertjs",
+  "description": "Real Time Stock Adviser",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "sockjs-client": "0.3.2"
+  }
+}
